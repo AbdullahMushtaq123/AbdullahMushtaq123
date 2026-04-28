@@ -12,7 +12,7 @@ Currently, I am in an active learning phase, building out homelabs to gain hands
 
 ### 🚀 Featured Projects
 * **[Automated SOC & Incident Response Pipeline](Link-to-your-repo)** Architected an isolated virtual network containing attack/victim machines. Deployed a centralized security stack on Ubuntu using Docker, featuring Wazuh (SIEM) for endpoint telemetry, Shuffle (SOAR) for automated threat intelligence enrichment, and TheHive for case management.
-* **[Vulnerability Assessment & Penetration Testing (VAPT) Lab](Link-to-your-repo)** Set up simulated Linux environments to practice the Cyber Kill Chain. Conducted vulnerability scanning, ethical exploitation, and documented mitigation strategies for intentionally vulnerable systems.
+* **[Vulnerability Assessment & Penetration Testing (VAPT) Lab](https://drive.google.com/drive/folders/1p4xgBcqBPzn-pZAJ21rghFCkoYndP6iw)** Set up simulated Linux environments to practice the Cyber Kill Chain. Conducted vulnerability scanning, ethical exploitation, and documented mitigation strategies for intentionally vulnerable systems.
 
 ### 💼 Experience Highlights
 * **Cyber Security Intern @ Wateen Telecom:** Gained exposure to enterprise SOC operations, threat escalation by L1 Analysts, and hands-on monitoring using Logsign SIEM and SentinelOne XDR.
