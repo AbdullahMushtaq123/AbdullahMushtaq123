@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Mushtaq 👋
 
-I am a Computer Science student and an aspiring Cybersecurity Analyst with a strong focus on Security Operations Center (SOC) environments. 
+I am a Computer Science graduate from FAST and an aspiring Cybersecurity Analyst with a strong focus on Security Operations Center (SOC) environments. 
 
 Currently, I am in an active learning phase, building out homelabs to gain hands-on engineering experience bridging the gap between theoretical security frameworks and real-world incident response. I enjoy breaking things down to understand the attack lifecycle, and then building the automated pipelines to defend against them.
 
